@@ -1,4 +1,4 @@
-package com.chapter6;
+package com.chapter7;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.ByteBufAllocator;
