@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>study</module>
+        <module>algorithm</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>
